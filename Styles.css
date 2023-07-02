@@ -68,7 +68,7 @@ header p{
     transition: .5s;
 }
 .menubtns p:hover{
-    margin-top: -8px;
+    transform: translateY(-8px);
     box-shadow: 0px 0px 8px 3px grey;
     cursor: pointer;
     border-color: rgb(218, 73, 57);
@@ -128,7 +128,7 @@ header p{
   
 }
 .signup p:hover{
-    margin-top: -8px;
+    transform: translateY(-8px);
     box-shadow: 0px 0px 8px 3px grey;
     cursor: pointer;
     border-color: rgb(218, 73, 57);
@@ -577,7 +577,7 @@ header p{
     font-weight: 400;
 }
 .were:hover{
-    margin-top: -.5px;
+    transform: translateY(-px);
     box-shadow: 0px 0px 8px 3px grey;
     cursor: pointer;
     border-color: rgb(218, 73, 57);
